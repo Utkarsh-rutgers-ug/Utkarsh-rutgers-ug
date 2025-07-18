@@ -3,7 +3,7 @@
 🎓 **Computer Science Undergraduate @ Rutgers University**  
 💡 Aspiring **Machine Learning Engineer | AI Developer | Generative AI Specialist**  
 🌎 Location: New York, NY | Boston, MA  
-📬 [Email me](mailto:worksharmautkarsh@gmail.com) | 📞 (603) 501-8521 | [LinkedIn](https://www.linkedin.com/in/utkarsh-sharma-500735294/) | [Portfolio](https://hubofmyths.com)
+📬 [Email me](mailto:worksharmautkarsh@gmail.com) | [LinkedIn](https://www.linkedin.com/in/utkarsh-sharma-500735294/) | [Portfolio](https://hubofmyths.com)
 
 ---
 
