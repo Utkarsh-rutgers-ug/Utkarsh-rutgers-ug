@@ -23,11 +23,7 @@ I’m currently seeking **entry-level Machine Learning Engineer or AI Developer 
 
 ## 🛠️ Technical Skills
 
-**Languages:** Python, C++, Java, C, C#, Swift, JavaScript, SQL, XML  
-**Frameworks/Tools:** PyTorch, TensorFlow, Scikit-learn, OpenCV, Flask, Docker, Kubernetes (basic)  
-**Data & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Tableau  
-**Cloud Platforms:** AWS, Azure, GCP  
-**Other:** Mujoco Simulator, Gunicorn, Azure DevOps, GitHub Actions
+Python, C++, Java, C#, JavaScript, SQL, Swift, PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy, OpenCV, HTML5, CSS3, React, Node.js, Redis, Elasticsearch, Android SDK, iOS, Linux, AWS, Azure, GCP, Docker, Kubernetes, Git, VS Code, Xcode, PyCharm, Algorithms, Data Processing, Data Analysis and Visualization, Simulation,  Machine Learning, Virtual Reality, Human-Computer Interaction, React Native, Full Stack Development, Mobile App, API Integration, Unit Testing, Production Systems, Analytics, Operating Systems, Networking, Software Design, Healthcare Systems and Revenue Cycle Management, computer vision, solve problems, Web Applications, code review, user experience, webpack, vue.js, node.js, macOS, rust, software systems, data acquisition systems, Mobile Development, robotic arms, Debugging, Mentoring
 
 ---
 
