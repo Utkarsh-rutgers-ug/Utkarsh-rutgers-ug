@@ -17,7 +17,7 @@ I am a highly motivated and detail-oriented computer science student passionate 
 - 📈 Algorithmic Trading Simulations
 - 🤖 Robotics & Proprioceptive Navigation
 
-I’m currently seeking **entry-level Machine Learning Engineer or AI Developer roles**, where I can contribute my technical skills and grow as a professional.
+I’m currently seeking **entry-level Machine Learning Engineer, AI Developer, Software Engineering or similar roles**, where I can contribute my technical skills and grow as a professional.
 
 ---
 
