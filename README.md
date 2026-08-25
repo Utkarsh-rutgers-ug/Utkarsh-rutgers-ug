@@ -133,3 +133,19 @@ Quantitative research         Machine learning in finance
 Algorithmic trading           Statistical modeling
 Backend engineering           Data-driven applications
 Algorithms and systems        Production-ready AI
+```
+
+Professional Direction
+I am interested in opportunities and collaborations involving:
+- Quantitative development and research
+- Software engineering
+- Machine-learning engineering
+- Artificial intelligence
+- Financial technology
+- Data and analytics
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D3B66,50:1F6FEB,100:CC0033&height=120&section=footer" />
+
+</div>
+```
