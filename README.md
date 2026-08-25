@@ -81,16 +81,6 @@ This includes:
 - Learning machine-learning methods for financial applications
 - Developing clean, maintainable, and well-documented systems
 
-## GitHub Activity
-
-<div align="center">
-
-![Utkarsh's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Utkarsh-rutgers-ug&show_icons=true&theme=github_dark&hide_border=true)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-rutgers-ug&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
 ## Professional Interests
 
 I am interested in opportunities involving:
