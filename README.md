@@ -2,11 +2,12 @@
 
 # Utkarsh Sharma
 
-### Computer Science Student at Rutgers University
+### Software Engineer | Machine Learning Analyst | Rutgers University Graduate
 
 Quantitative Finance | Software Engineering | Artificial Intelligence | Machine Learning
 
-[![GitHub](https://img.shields.io/badge/GitHub-Utkarsh--rutgers--ug-181717?style=for-the-badge&logo=github)](https://github.com/Utkarsh-rutgers-ug)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Utkarsh_Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-work)
+[![GitHub](https://img.shields.io/badge/GitHub-Utkarsh--rutgers--ug-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Utkarsh-rutgers-ug)
 
 </div>
 
@@ -14,48 +15,65 @@ Quantitative Finance | Software Engineering | Artificial Intelligence | Machine 
 
 ## About
 
-I am a Computer Science student at Rutgers University interested in the intersection of software, intelligent systems, and financial markets.
+I am a Software Engineer and Machine Learning Analyst at HCLTech with an academic background in Finance and Business Analytics & Information Technology from Rutgers University.
 
-My primary interests include quantitative finance, software engineering, artificial intelligence, machine learning, algorithmic decision-making, and financial technology. I enjoy building reliable software, working with data, and exploring how computational methods can be applied to financial problems.
+My interests lie at the intersection of quantitative finance, software engineering, artificial intelligence, machine learning, and financial markets. I am particularly interested in applying statistical analysis, predictive modeling, and software development to financial decision-making and quantitative research.
 
-I am currently developing my skills in data structures, algorithms, backend engineering, statistical modeling, and machine learning.
+I enjoy building data-driven applications, designing reliable software systems, and exploring how technology can improve the analysis of markets, investments, and financial risk.
+
+## Current Role
+
+### Software Engineer — Analyst, Machine Learning  
+**HCLTech**
+
+I currently work on software engineering and machine-learning initiatives, developing practical experience with data-driven systems, Python development, analytical problem-solving, and applied artificial intelligence.
 
 ## Areas of Interest
 
-- Quantitative finance and algorithmic trading
+- Quantitative finance and quantitative research
+- Algorithmic trading and investment analysis
 - Software engineering and scalable systems
 - Artificial intelligence and machine learning
-- Financial markets and investment analysis
-- Data analysis and statistical modeling
+- Statistical modeling and predictive analytics
+- Financial markets and portfolio risk
 - Financial technology
-- Backend development and database systems
+- Data engineering and analytics
 
 ## Technical Skills
 
 ### Programming Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Frameworks and Technologies
+### Software and Data Technologies
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-### Developing Knowledge
+### Quantitative and Analytical Skills
 
-- Data structures and algorithms
-- Object-oriented software design
+- Financial analysis and investment research
+- Probability and statistics
 - Machine learning and predictive modeling
-- Probability, statistics, and financial mathematics
+- Portfolio risk analysis
+- Data analysis and visualization
 - Relational database design
-- Backend application development
-- Quantitative research and financial data analysis
+- Object-oriented programming
+- Data structures and algorithms
 
-## Featured Project
+## Selected Projects
+
+### Quantify
+
+A web-based algorithmic trading and financial-analysis platform designed to support strategy backtesting, trade simulation, and portfolio-risk assessment.
+
+The project uses Python, Flask, PostgreSQL, NumPy, Pandas, React, financial-market APIs, and cloud infrastructure to combine software engineering with quantitative financial analysis.
 
 ### [Wells Fargo Software Engineering Program](https://github.com/Utkarsh-rutgers-ug/Forage-WellsFargo)
 
@@ -64,38 +82,39 @@ A multi-stage software engineering project completed through the Wells Fargo job
 Key work includes:
 
 - Designing an entity-relationship diagram and relational database schema
-- Modeling financial-advisor data using Java and JPA
+- Modeling financial-advisor data with Java and JPA
 - Developing with Spring Boot, Maven, and H2
 - Applying object-oriented programming and database-design principles
 - Organizing technical deliverables across multiple project tasks
 
 ## Current Focus
 
-I am currently focused on building a strong technical foundation for work involving quantitative finance, software engineering, and machine learning.
+I am continuing to develop expertise in:
 
-This includes:
-
-- Improving algorithmic problem-solving
-- Studying probability, statistics, and financial markets
-- Building data-driven software projects
-- Learning machine-learning methods for financial applications
-- Developing clean, maintainable, and well-documented systems
+- Quantitative research and financial modeling
+- Machine-learning applications in finance
+- Algorithmic trading systems
+- Backend software development
+- Statistical and predictive modeling
+- Data structures, algorithms, and system design
+- Production-ready AI and data systems
 
 ## Professional Interests
 
-I am interested in opportunities involving:
+I am interested in professional opportunities and collaborations involving:
 
 - Quantitative development
+- Quantitative research
 - Software engineering
 - Machine-learning engineering
+- Artificial intelligence
 - Financial technology
 - Data and analytics
-- Quantitative research
 
 ---
 
 <div align="center">
 
-Building software and analytical skills for the future of finance and intelligent systems.
+Building intelligent software for financial and data-driven applications.
 
 </div>
