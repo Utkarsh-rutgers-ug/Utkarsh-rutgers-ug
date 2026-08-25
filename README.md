@@ -1,62 +1,78 @@
-# 👋 Hi, I'm Utkarsh Sharma
+<div align="center">
 
-🎓 **Computer Science Undergraduate @ Rutgers University**  
-💡 Aspiring **Machine Learning Engineer | AI Developer | Generative AI Specialist**  
-🌎 Location: New York, NY | Boston, MA  
-📬 [Email me](mailto:worksharmautkarsh@gmail.com) | [LinkedIn](https://www.linkedin.com/in/utkarsh-sharma-500735294/) | [Portfolio](https://hubofmyths.com)
+# Hi, I'm Utkarsh Sharma 👋
 
----
+### Computer Science Student at Rutgers University  
+### Software Engineering • Backend Development • Data Systems
 
-## 🔷 About Me
+I enjoy building reliable software, designing databases, and turning technical concepts into practical projects.
 
-I am a highly motivated and detail-oriented computer science student passionate about building intelligent systems, deploying ML models, and delivering scalable AI solutions. I enjoy solving real-world problems with technology and have hands-on experience with:
+[![GitHub](https://img.shields.io/badge/GitHub-Utkarsh--rutgers--ug-181717?style=for-the-badge&logo=github)](https://github.com/Utkarsh-rutgers-ug)
+![Profile Views](https://komarev.com/ghpvc/?username=Utkarsh-rutgers-ug&style=for-the-badge&color=cc0033)
 
-- 🧠 Machine Learning & Neural Networks
-- 🚀 Generative AI & AI Agents
-- ☁️ Cloud-based Deployment & MLOps
-- 📈 Algorithmic Trading Simulations
-- 🤖 Robotics & Proprioceptive Navigation
-
-I’m currently seeking **entry-level Machine Learning Engineer, AI Developer, Software Engineering or similar roles**, where I can contribute my technical skills and grow as a professional.
+</div>
 
 ---
 
-## 🛠️ Technical Skills
+## About Me
 
-Python, C++, Java, C#, JavaScript, SQL, Swift, PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy, OpenCV, HTML5, CSS3, React, Node.js, Redis, Elasticsearch, Android SDK, iOS, Linux, AWS, Azure, GCP, Docker, Kubernetes, Git, VS Code, Xcode, PyCharm, Algorithms, Data Processing, Data Analysis and Visualization, Simulation,  Machine Learning, Virtual Reality, Human-Computer Interaction, React Native, Full Stack Development, Mobile App, API Integration, Unit Testing, Production Systems, Analytics, Operating Systems, Networking, Software Design, Healthcare Systems and Revenue Cycle Management, computer vision, solve problems, Web Applications, code review, user experience, webpack, vue.js, node.js, macOS, rust, software systems, data acquisition systems, Mobile Development, robotic arms, Debugging, Mentoring
+- 🎓 Computer Science student at **Rutgers University**
+- 💻 Interested in **software engineering, backend development, and data engineering**
+- 🧠 Building experience with **Java, Python, SQL, Spring Boot, and relational databases**
+- 🗃️ Interested in database design, APIs, object-oriented programming, and scalable systems
+- 🌱 Currently strengthening my knowledge of data structures, algorithms, and system design
+- 🤝 Open to internships, collaborative projects, and software engineering opportunities
 
----
+## Technical Skills
 
-## 📂 Notable Projects
+### Languages
 
-### 🔷 [Quantify (In Progress)](https://github.com/Utkarsh-rutgers-ug)  
-Web-based algorithmic trading simulator — scalable backend in Python & PostgreSQL, optimized calculations in C, real-time simulations with market data APIs.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### 🔷 [Image Detector](https://github.com/Utkarsh-rutgers-ug)  
-Neural network-based handwritten digit recognition with real-time camera input, optimized model performance (+15% accuracy).
+### Frameworks and Technologies
 
-### 🔷 [Flask ML Microservice: Boston Housing](https://github.com/Utkarsh-rutgers-ug)  
-Containerized Flask REST API with CI/CD pipelines, deployed to Azure, AWS, and GCP. Includes structured logging, automated testing & cloud deployments.
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-### 🔷 [P.R.O.B.E. Robotics Research](https://github.com/Utkarsh-rutgers-ug)  
-Proprioceptive obstacle detection for robots — XML & Mujoco modeling, Python algorithms for sensor fusion, C++ optimization, 25% faster navigation.
+### Areas of Interest
 
----
+- Backend application development
+- Database modeling and relational schema design
+- REST APIs and service-oriented applications
+- Data structures and algorithms
+- Clean, maintainable software architecture
 
-## 📜 Certifications
+## Featured Project
 
-- 🌟 Cloud Machine Learning Engineering & MLOps — Duke University (2025)
-- 🌟 AI in Healthcare — Stanford University (2025)
-- 🌟 AI Agent Developer — Vanderbilt University (Expected 2025)
-- 🌟 Google Cloud Certified Associate ML Engineer (Expected 2025)
+### [Wells Fargo Software Engineering](https://github.com/Utkarsh-rutgers-ug/Forage-WellsFargo)
 
----
+A multi-stage software engineering project completed through the Wells Fargo job simulation on Forage.
 
-## 📈 Let’s Connect!
+- Designed an entity-relationship diagram and relational database schema
+- Modeled financial-advisor data using Java and JPA
+- Worked with Spring Boot, Maven, and H2
+- Applied object-oriented programming and database-design principles
 
-I’m always open to connecting, collaborating, or discussing opportunities.  
-📧 [worksharmautkarsh@gmail.com](mailto:worksharmautkarsh@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/utkarsh-sharma-500735294/) | [Portfolio](https://hubofmyths.com)
+## GitHub Activity
 
----
-⭐ *Thank you for visiting my profile! Feel free to explore my repositories and see my work in action.*
+<div align="center">
+
+![Utkarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Utkarsh-rutgers-ug&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-rutgers-ug&layout=compact&theme=github_dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Utkarsh-rutgers-ug&theme=github-dark-blue&hide_border=true)
+
+</div>
+
+## Current Focus
+
+```text
+Building stronger backend and data-engineering foundations
+Improving problem-solving through data structures and algorithms
+Creating well-documented, portfolio-ready software projects
