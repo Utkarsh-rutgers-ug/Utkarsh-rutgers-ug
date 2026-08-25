@@ -26,7 +26,7 @@ I enjoy building data-driven applications, designing reliable software systems, 
 ### Software Engineer — Analyst, Machine Learning  
 **HCLTech**
 
-I currently work on software engineering and machine-learning initiatives, developing practical experience with data-driven systems, Python development, analytical problem-solving, and applied artificial intelligence.
+I currently work on software engineering and machine-learning initiatives, gaining practical experience with data-driven systems, Python development, analytical problem-solving, and applied artificial intelligence.
 
 ## Areas of Interest
 
@@ -47,7 +47,7 @@ I currently work on software engineering and machine-learning initiatives, devel
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Software and Data Technologies
+### Frameworks and Technologies
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
@@ -73,19 +73,20 @@ I currently work on software engineering and machine-learning initiatives, devel
 
 A web-based algorithmic trading and financial-analysis platform designed to support strategy backtesting, trade simulation, and portfolio-risk assessment.
 
-The project uses Python, Flask, PostgreSQL, NumPy, Pandas, React, financial-market APIs, and cloud infrastructure to combine software engineering with quantitative financial analysis.
+The project combines Python, Flask, PostgreSQL, NumPy, Pandas, React, financial-market APIs, and cloud infrastructure to connect software engineering with quantitative financial analysis.
 
-### [Wells Fargo Software Engineering Program](https://github.com/Utkarsh-rutgers-ug/Forage-WellsFargo)
+### [Wells Fargo Software Engineering Job Simulation](https://github.com/Utkarsh-rutgers-ug/Forage-WellsFargo)
 
-A multi-stage software engineering project completed through the Wells Fargo job simulation on Forage.
+Completed the Wells Fargo Software Engineering Job Simulation through Forage.
 
-Key work includes:
+During the program, I:
 
-- Designing an entity-relationship diagram and relational database schema
-- Modeling financial-advisor data with Java and JPA
-- Developing with Spring Boot, Maven, and H2
-- Applying object-oriented programming and database-design principles
-- Organizing technical deliverables across multiple project tasks
+- Designed an entity-relationship diagram for a financial-advisor platform
+- Converted business requirements into a relational database schema
+- Implemented financial data entities using Java and JPA
+- Worked with Spring Boot, Maven, and H2
+- Applied object-oriented programming and database-design principles
+- Organized and documented technical deliverables across multiple project tasks
 
 ## Current Focus
 
