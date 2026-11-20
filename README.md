@@ -9,44 +9,27 @@
 </div>
 
 ## About
+Machine Learning Analyst, HCL America / Merck | B.S. Computer Science, Rutgers University
 
-I am a Computer Science major at Rutgers University and currently work as a Machine Learning Analyst, HCL America / Merck.
+I build and evaluate machine learning models, mostly risk scoring and anomaly detection, and turn the results into something non-technical teams can act on.
 
-Within computer science, I have challenged myself through coursework in artificial intelligence and mathematics, including probability. These subjects strengthened my interest in machine learning, quantitative analysis, algorithmic decision-making, and the mathematical foundations behind intelligent systems.
+## What I work on
+- Risk-scoring and anomaly-detection workflows for compliance and due diligence across thousands of applications
+- Data cleaning, validation, and exploratory analysis in Python and SQL
+- Regression modeling and ML APIs (Flask, Docker, GitHub Actions)
+- LLM and RAG applications with answer-grounding evaluation
 
-My long-term interests lie at the intersection of quantitative finance, software engineering, artificial intelligence, machine learning, and financial markets. I am particularly interested in building software that applies data, statistics, and predictive models to financial analysis and decision-making.
+## Background
+Coursework in probability, linear optimization, linear algebra, AI, deep learning, graph theory, algorithms, and database systems.
 
-> I am motivated by problems that require both technical depth and quantitative reasoning.
+## Selected projects
+- **Housing Price Prediction API:** regression model served through a Dockerized Flask API with CI
+- **Quantify:** portfolio analytics app (cost basis, P/L, risk signals, price charts)
+- **Document QA Bot:** RAG pipeline that checks answers against retrieved sources
 
-## Experience and Education
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Current Role
-
-**Software Engineer — Analyst, Machine Learning**  
-**HCLTech**
-
-Working with software engineering, Python development, data-driven systems, analytical problem-solving, and applied machine learning.
-
-</td>
-<td width="50%" valign="top">
-
-### Education
-
-**Computer Science**  
-**Rutgers University**
-
-Selected areas of study:
-
-- Artificial intelligence
-- Probability and mathematics
-- Algorithms and data structures
-- Software engineering
-- Database systems
-
+## Connect
+[LinkedIn](https://www.linkedin.com/in/utkarsh-work) · Open to data science and ML roles in NJ, NYC, or remote
 </td>
 </tr>
 </table>
@@ -71,6 +54,9 @@ Selected areas of study:
 ![Python](https://img.shields.io/badge/Python-1F6FEB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-CC0033?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-1F6FEB?style=flat-square&logo=postgresql&logoColor=white)
+
+(Tech
+Python · SQL · Pandas · NumPy · scikit-learn · PyTorch · AWS · Docker · Git)
 
 ### Frameworks and Technologies
 
