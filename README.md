@@ -10,7 +10,7 @@
 
 ## About
 
-I am a Computer Science major at Rutgers University and currently work as a Software Engineer and Machine Learning Analyst at HCLTech.
+I am a Computer Science major at Rutgers University and currently work as a Machine Learning Analyst, HCL America / Merck.
 
 Within computer science, I have challenged myself through coursework in artificial intelligence and mathematics, including probability. These subjects strengthened my interest in machine learning, quantitative analysis, algorithmic decision-making, and the mathematical foundations behind intelligent systems.
 
